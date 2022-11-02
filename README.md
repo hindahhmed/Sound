@@ -1,6 +1,6 @@
 # Communications Airlines
 
-[Link to Website](https://zion-off.github.io/commlab-sound/) 
+[LINK TO WEBSITE](https://zion-off.github.io/commlab-sound/) 
 
 ## PROJECT DESCRIPTION 
 
@@ -15,4 +15,4 @@ I worked on the sounds, I recorded all the sounds (flight attendant) and edited 
 
 ## REFLECTION 
 
-Our project did work out like we intended, it ultimately  simulated a flight and was very enjoyable to experience. I believe it truly encompassed a flight experience, and we hope the users enjoy it.
+Our project did work out like we intended, it ultimately simulated a flight and was very enjoyable to experience. I believe it truly encompassed a flight experience, and we hope the users enjoy it as well. 
